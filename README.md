@@ -1,4 +1,4 @@
-                                                                     Hi 👋, I'm Jewel
+                                                Hi 👋, I'm Jewel
 
 
 - 👀 I’m interested in web Development,programming and new technology
